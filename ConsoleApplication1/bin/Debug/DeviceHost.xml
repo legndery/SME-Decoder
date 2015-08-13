@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<KiesPluginInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PluginVersion>1.0.0.0</PluginVersion>
+  <SDKVersion>1.0.0.0</SDKVersion>
+  <DllName>.\Plugins\DeviceHost\DeviceHost.dll</DllName>
+  <PluginName>Kies.Plugin.DeviceHost.DeviceHost</PluginName>
+  <CategoryType>DeviceHost</CategoryType>
+  <OrderInCategory>0</OrderInCategory>
+  <ServerURL></ServerURL>  
+</KiesPluginInfo>
